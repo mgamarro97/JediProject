@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/activity1"
+            android:title="Memory" />
+        <item
+            android:id="@+id/activity2"
+            android:title="Calculator" />
+        <item
+            android:id="@+id/activity3"
+            android:title="Media" />
+        <item
+            android:id="@+id/activity4"
+            android:title="Profile" />
+        <item
+            android:id="@+id/logout"
+            android:title="Log Out"/>
+    </group>
+
+</menu>
